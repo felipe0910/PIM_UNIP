@@ -6,15 +6,17 @@ Tecnologias: Python, C, biblioteca JSON e metodologias ágeis (Scrum).
 
 ## 🖥️ Protótipos do Sistema
 
-### 🔐 Tela de Login do Professor
-![Tela de Login](imagens/prototipo_login_prof.png)
+
+
+### 📝 Cadastro de Professor
+<img src="imagens/login_prof.png" alt="Tela de Login" width="600">
 
 ---
 
-### 📝 Cadastro de Professor
-![Cadastro de Professor](imagens/prototipo_cadastro_prof.png)
+### 🔐 Tela de Login do Professor
+<img src="imagens/cadastro_prof.png" alt="Cadastro de Professor" width="600">
 
 ---
 
 ### 📊 Gerenciamento de Alunos
-![Gerenciamento de Alunos](imagens/prototipo_gerenciamento_alunos.png)
+<img src="imagens/gerenciamento_alunos.png" alt="Gerenciamento de Alunos" width="600">
